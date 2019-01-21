@@ -1,0 +1,23 @@
+{
+  "name": "graphql-compose-mongoose-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "esm": "^3.1.1",
+    "graphql": "14.0.0",
+    "graphql-compose": "^5.0.2",
+    "graphql-compose-mongoose": "^5.2.1",
+    "graphql-tools": "^4.0.3",
+    "mongodb-memory-server": "^2.1.0",
+    "mongoose": "^5.4.2",
+    "nodemon": "^1.18.4"
+  }
+}
